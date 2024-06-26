@@ -70,7 +70,11 @@ To set up this project on your local machine, follow these steps:
 
     ```bash
     python -m venv venv
+    ```
+    ```bash
 `venv\Scripts\activate`
+    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
