@@ -92,5 +92,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-This README file provides a comprehensive overview of your project, including setup instructions, usage guidelines, and details about the dataset. You can adjust the content to better suit your project's specifics or preferences.
+ 
